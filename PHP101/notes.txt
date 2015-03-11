@@ -1,0 +1,39 @@
+1.		Basic HTML Document (01-index.php)
+
+2.		<?php echo "Hello World"; ?>
+
+3.		Split into multiple lines
+
+4.		Introduce variables
+
+5.		[snip] $group = array
+
+6.		echo $group[0];
+
+7.		[snip] Assoc arrays
+
+8.		[snip] Multiple people
+
+9.		[snip] Table (02-index.php)
+
+10.		Fill out table
+
+11.		Multi-arrays - Loop output (03-index.php)
+
+12.		print_r with PRE tags
+
+13.		foreach $people as $person
+
+14.		[snip] fopen
+
+15.		[snip] while .. fgets (04-index.php)
+
+16.		admin-list.csv
+
+17.		$_REQUEST
+
+18.		Security holes! /etc/apache2/httpd.conf (05-index.php)
+
+19.		[snip] array_key_exists
+
+20.		includes (06-index.php)
